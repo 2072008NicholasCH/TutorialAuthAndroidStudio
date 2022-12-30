@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthenticationFirebase</string>
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="sign_in_with_github">Sign in With Github</string>
+    <string name="github_login">Github Login</string>
+    <string name="btn_github_login">Github Login</string>
+</resources>
